@@ -1,0 +1,20 @@
+body {
+    background-color: #833faa;
+    color: #f2f5ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.pate {
+    width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.intr {
+    background-color: #b901ca;
+    text-align: center;
+    padding: 35px;
+}
+
+.intro img { margin-top: 20px; }
